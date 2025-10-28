@@ -6,17 +6,17 @@
 
 ## 📌 Completed Problems
 
-### 🧮 Arrays & Hashing
+### Arrays & Hashing
 - [LC 217: Contains Duplicate](https://github.com/michaelmarsillo/TechnicalPrep/blob/main/Arrays/217.%20Contains%20Duplicate%20Java.md)
 
 
-### 🔤 Strings
+### Strings
 
 
-### 📚 Stack
+### Stacks
 
 
-### 👣 Two Pointers
+### Two Pointers
 
 
 ---
