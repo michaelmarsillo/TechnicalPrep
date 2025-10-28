@@ -2,7 +2,7 @@
 
 - Currently Leetcoding in Java for my upcoming internship.
 
----
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## 📌 Completed Problems
 
