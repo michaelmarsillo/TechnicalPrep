@@ -19,24 +19,20 @@ Currently Leetcoding in Java.
 ### Two Pointers
 
 
----
-
 
 ## 📈 Goals
 
 - ✅ Solidify DSA
 - ✅ Improve speed and accuracy for interviews
 
----
 
 ## 🧑🏼‍💻 Leetcode
 
-<a href="https://leetcode.com/u/hatebonic/">
+<a href="https://leetcode.com/u/michaelmarsillo/">
   <img src="https://i.imgur.com/Zpz1xKb.png" alt="Leetcode"  width="150"/>
 </a>
 
 
---- 
 
 ## 📬 Connect with Me
 
