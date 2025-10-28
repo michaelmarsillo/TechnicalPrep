@@ -12,7 +12,7 @@ short one-liner
 [short explanation of the result]
 
 
-## Solution (Using a HashSet)
+## Solution (Using a...)
 ```java
 class Solution {
     public [returnType] [methodName]([params]) {
