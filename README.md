@@ -1,6 +1,6 @@
 # 💻 Technical Skills Practice
 
-- Currently Leetcoding in Java for my upcoming internship.
+Currently Leetcoding in Java.
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
@@ -24,8 +24,8 @@
 
 ## 📈 Goals
 
-- ✅ Solidify understanding of core DSA topics
-- ✅ Improve speed and accuracy for technical interviews
+- ✅ Solidify DSA
+- ✅ Improve speed and accuracy for interviews
 
 ---
 
