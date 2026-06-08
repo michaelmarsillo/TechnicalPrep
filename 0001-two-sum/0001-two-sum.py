@@ -1,3 +1,8 @@
+# Time: O(n)
+# Space: O(n)
+# Approach: Hash map lookup
+
+
 class Solution(object):
     def twoSum(self, nums, target):
         num_to_index = {}
