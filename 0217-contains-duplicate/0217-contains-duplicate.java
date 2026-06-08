@@ -1,3 +1,8 @@
+// Time: O(n)
+// Space: O(n)
+// Approach: HashSet
+
+
 class Solution {
     public boolean containsDuplicate(int[] nums) {
         HashSet<Integer> seen = new HashSet<>();
