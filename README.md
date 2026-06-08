@@ -1,18 +1,19 @@
 # 💻 Technical Skills Practice
 
-Currently Leetcoding in Java. <br>
+Currently Leetcoding in Java.
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-## 📌 Completed Problems <a href="https://leetcode.com/u/michaelmarsillo/"><img src="https://i.imgur.com/Zpz1xKb.png" alt="Leetcode" width="35" height="35"/></a>
+## Completed Problems 
 
 ### Arrays & Hashing
 - [LC 217: Contains Duplicate](https://github.com/michaelmarsillo/TechnicalPrep/blob/main/Arrays/217.%20Contains%20Duplicate%20Java.md)
 
 
 
-## 📬 Connect with Me
+## Connect with Me
 
-- Email: [mars7769@mylaurier.ca](mailto:mars7769@mylaurier.ca)
-- LinkedIn: [michaelmarsillo](https://www.linkedin.com/in/michaelmarsillo/)
+LeetCode: [michaelmarsillo](https://leetcode.com/u/michaelmarsillo/) <br>
+Email: [mars7769@mylaurier.ca](mailto:mars7769@mylaurier.ca) <br>
+LinkedIn: [michaelmarsillo](https://www.linkedin.com/in/michaelmarsillo/)
