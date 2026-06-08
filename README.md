@@ -14,6 +14,5 @@ Currently Leetcoding in Java.
 
 ## Connect with Me
 
-LeetCode: [michaelmarsillo](https://leetcode.com/u/michaelmarsillo/) <br>
 Email: [mars7769@mylaurier.ca](mailto:mars7769@mylaurier.ca) <br>
 LinkedIn: [michaelmarsillo](https://www.linkedin.com/in/michaelmarsillo/)
